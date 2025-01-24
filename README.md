@@ -12,11 +12,11 @@
 
 ## 💻 Tech 💗
 
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
+| ![VueJS](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/vuejs.png) | ![Nuxt](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/nuxt.png) | ![JavaScript](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/javascript.png) | ![CSS](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/CSS.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
+| ![Astro](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/astro.png) | ![Vite](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/vite.png) | ![HTML](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/html.png) | ![Tailwind](https://raw.githubusercontent.com/pauuuupau/pauuuupau/refs/heads/gh-pages/img/stack/tailwind.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ## 💼 Work Experience
 
