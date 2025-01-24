@@ -20,7 +20,7 @@
 
 ## 💼 Work Experience
 
-```bash
+```
 .
 ├── Frontend Developer, Horizm S.L (remote) - Feb. 2022 - Jun. 2023
 │	├── Technical analysis and provided accurate task estimations for new project.
@@ -48,7 +48,7 @@
 
 ## 🏫 Education
 
-```bash
+```
 .
 ├── Postgraduate Diploma in Education - Miguel Hernandez University of Elche, Alicante - 2024
 │	└── I pursued this master's to open new opportunities. I’ve always been interested in teaching and effectively sharing
