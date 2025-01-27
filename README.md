@@ -77,9 +77,9 @@
 #### Miguel Hernandez University of Elche, Alicante - `2024`
 
 ```
-└── I pursued this master's to open new opportunities. I’ve always been interested in teaching and effectively sharing
-	knowledge. I also focused on ICT tools and wrote my thesis on the importance of UX and UI design in education, 
-	especially for digital-native users.
+I pursued this master's to open new opportunities. I’ve always been interested in teaching 
+and effectively sharing knowledge. I also focused on ICT tools and wrote my thesis on the 
+importance of UX and UI design in education, especially for digital-native users.
 ```
 
 ### ● Degree in Digital Design and Creation (online)
@@ -87,9 +87,9 @@
 #### Open University of Catalonia  - `2020 - 2023`
 
 ```
-└── Degree studies that develop multidisciplinary skills related to design, while integrating the ability to 
-	create solutions in the creative field, with a special emphasis on techniques associated with graphic design,
-	communication, and user experience (UX) design.
+Degree studies that develop multidisciplinary skills related to design, while integrating 
+the ability to create solutions in the creative field, with a special emphasis on techniques 
+associated with graphic design, communication, and user experience (UX) design.
 ```
 
 ### ● Advanced Vocational Training Program (HND) in Web Development Applications
@@ -97,8 +97,8 @@
 #### IES Mare Nostrum, Alicante - `2014 - 2017`
 
 ```
-└── Studies focused on professional training in the development, implementation, and maintenance of software, 
-	adhering to best practices and meeting standards of quality, usability, and accessibility.
+Studies focused on professional training in the development, implementation, and maintenance 
+of software, adhering to best practices and meeting standards of quality, usability, and accessibility.
 ```
 
 
@@ -149,3 +149,9 @@
 - ANDROID: Interface, Sensors and Storage, Multimedia Libraries, Web Services, Geolocation, and Maps
 ```
 
+
+
+## ⛓️‍💥 Links
+
+| [![Behance](https://raw.githubusercontent.com/pauuuupau/pauuuupau/4a119174c4f04543c1a2ad70b27084bcc8005046/icons/behance.png)](https://www.behance.net/pauuuupau) | [![linkedIn](https://raw.githubusercontent.com/pauuuupau/pauuuupau/4a119174c4f04543c1a2ad70b27084bcc8005046/icons/linkedin.png)](https://www.linkedin.com/in/paulaprztafalla/) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
